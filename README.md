@@ -1,2 +1,7 @@
 # ML_Experiment
-showdown 
+
+#### Set-up
+```pip install -r requirements.txt```
+
+#### Code Run
+``` jupyter lab```
