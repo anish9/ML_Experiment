@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+
+# Jupyter runtime and metadata
+*.checkpoint
+.ipynb_checkpoints/
+.jupyter/
+.local/share/jupyter/
+profile_default/
+*.nbconvert.ipynb
+
+# JupyterLab specific
+.lab/
+node_modules/
+.yarn/
+*.log
+
+# VSCode settings (if using)
+.vscode/
+
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/Config files
+.env
+*.env
